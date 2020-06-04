@@ -1,0 +1,39 @@
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\bin\Debug\project2.exe.config
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\bin\Debug\project2.exe
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\bin\Debug\project2.pdb
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.Form1.resources
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.Properties.Resources.resources
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.csproj.GenerateResource.Cache
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.exe
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.pdb
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project 2\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\bin\Debug\project2.exe.config
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.exe
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.pdb
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\bin\Debug\project2.exe
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\bin\Debug\project2.pdb
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.Form1.resources
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.Properties.Resources.resources
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.csproj.GenerateResource.Cache
+C:\Users\uc\Downloads\Compressed\project-2\project 2\project2\project2\obj\Debug\project2.Form2.resources
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\bin\Debug\project2.exe.config
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.exe
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.pdb
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\bin\Debug\project2.exe
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\bin\Debug\project2.pdb
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.Form1.resources
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.Form2.resources
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.Properties.Resources.resources
+C:\Users\The Genius\Desktop\project-2\project 2\project2\project2\obj\Debug\project2.csproj.GenerateResource.Cache
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\bin\Debug\project2.exe.config
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\bin\Debug\project2.exe
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\bin\Debug\project2.pdb
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.Form1.resources
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.Form2.resources
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.Properties.Resources.resources
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.csproj.GenerateResource.Cache
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.exe
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.pdb
+E:\fci\الفرقه الثالثه\الترم الاول\سي شارب\project-2\project 2\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
